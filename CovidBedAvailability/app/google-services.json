@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918753336537",
+    "project_id": "newauth-bf472",
+    "storage_bucket": "newauth-bf472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918753336537:android:020f3260d8b54d2fc7b2c8",
+        "android_client_info": {
+          "package_name": "com.example.covidbedavailability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918753336537-fto8rt0bu1ovbsn0c6oh9op12dmg7222.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJ8YmFBpg0phu55HBvhYGgWPAck-9m_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918753336537-fto8rt0bu1ovbsn0c6oh9op12dmg7222.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

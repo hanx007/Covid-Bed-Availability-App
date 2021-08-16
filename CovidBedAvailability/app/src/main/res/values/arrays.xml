@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hospital_array">
+    <item>KMC Hospital</item>
+    <item>Yenepoya Medical College</item>
+    <item>K S Hegde Hospital</item>
+    <item>Kanachur Hospital</item>
+    <item>Athena Hospital</item>
+    <item>Wenlock Hospital</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>5 hours</item>
+        <item>6 hours</item>
+    </string-array>
+    <string-array name="symptoms_array">
+        <item>Fever</item>
+        <item>Difficulty in breathing</item>
+        <item>Chest Pain</item>
+        <item>Inabiliity to wake or stay awake</item>
+        <item>Bluish lips or face</item>
+        <item>Sudden confusion</item>
+        <item>Excessive drowsiness</item>
+        <item>Oxygen level below 95</item>
+    </string-array>
+</resources>

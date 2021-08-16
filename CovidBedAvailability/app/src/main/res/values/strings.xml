@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CovidBedAvailabilityApp</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="nameUser">Name</string>
+
+    <string name="emailUser">Email</string>
+    <string name="sign_in_here">Sign in here!!</string>
+    <string name="passwordUser">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="login_here">Login here!!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="welcome">Welcome, </string>
+    <string name="sign_out">Logout</string>
+
+</resources>
